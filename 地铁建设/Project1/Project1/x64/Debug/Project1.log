@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+D:\Documents\VStudio\地铁建设\Project1\FileName.cpp(114,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Documents\VStudio\地铁建设\Project1\FileName.cpp(134,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\Documents\VStudio\地铁建设\Project1\x64\Debug\Project1.exe
